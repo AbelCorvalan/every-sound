@@ -1,0 +1,15 @@
+1. Leer columna "Ref"
+2. Leer columna "Value"
+3. Create array1 2xn "Ref", "Value"
+
+4. Read file with with the values which we want "Components", "Value" (array2).
+
+5. Compare dimension of array1 and array2, if they are equals next to the follow step, else Error "The mount of components is not equal in the circuit".
+
+6. Compare 00 element with all first column "Component", second column,..., n (array2)
+7. If "Component"== "Ref", Write over second column of array1 index to "Ref", else " "Component" is not in the circuit"
+
+Determinate ends and dimension of arrays (print them).
+
+
+

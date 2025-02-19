@@ -1,1 +1,1 @@
-kifield -x "../Big Muff Pi/Big Muff Pi.kicad_sch" -i "design.csv"
+kifield -x "../Big Muff Pi/Big Muff Pi.kicad_sch" -i "components.csv"

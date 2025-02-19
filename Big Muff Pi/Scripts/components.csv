@@ -20,7 +20,7 @@ Q1,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs
 Q2,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",,NPN,1=C 2=B 3=E,GUMMELPOON,NPN
 Q3,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",,NPN,1=C 2=B 3=E,GUMMELPOON,NPN
 Q4,https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",,NPN,1=C 2=B 3=E,GUMMELPOON,NPN
-R1,~,Resistor,,,,,R
+R1,~,Resistor,,,,,100
 R10,~,Resistor,,,,,R
 R11,~,Resistor,,,,,R
 R12,~,Resistor,,,,,R
