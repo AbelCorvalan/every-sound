@@ -1,0 +1,5 @@
+Circuit: * C:\users\abel\Desktop\Abel\Facu\Github Repositories\EverySound\Big Muff Bass\Big Muff Bass.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 2.66447e-006 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 2.66447e-006, timestep = 1.25e-019: trouble with 2n3904-instance q4
+
