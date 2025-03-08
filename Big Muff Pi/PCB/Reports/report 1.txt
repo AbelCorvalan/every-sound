@@ -1,0 +1,117 @@
+Info: Processing symbol 'C11:'.
+Info: Processing symbol 'R21:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D6:LED_THT:LED_D3.0mm_Clear'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C15:'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C14:'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C13:'.
+Info: Processing symbol 'C12:Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'R25:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'H1:MountingHole 2:MountingHole-1.2mm'.
+Info: Processing symbol 'RV1:Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Info: Processing symbol 'C10:'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'C3:'.
+Info: Processing symbol 'C4:'.
+Info: Processing symbol 'RV3:Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'C6:'.
+Info: Processing symbol 'C7:'.
+Info: Processing symbol 'RV2:Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C8:Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'H2:MountingHole 2:MountingHole-1.2mm'.
+Info: Processing symbol 'H5:MountingHole 2:MountingHole-1.2mm'.
+Info: Processing symbol 'J1:Connector_BarrelJack:BarrelJack_Horizontal'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92L_Inline_Wide'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92L_Inline_Wide'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92L_Inline_Wide'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92L_Inline_Wide'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'R20:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R17:Potentiometer_THT:Potentiometer_Omeg_PC16BU_Horizontal'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Changed REF** reference designator to H5.
+Added H5 (footprint 'MountingHole 2:MountingHole-1.2mm').
+Connected H2 pin 1 to Net-(H2-Pad1).
+Added H2 'exclude from BOM' fabrication attribute.
+Updated H2 footprint filters to 'MountingHole*Pad*'.
+Added H1 (footprint 'MountingHole 2:MountingHole-1.2mm').
+Changed REF** reference designator to H1.
+Changed H1 value from MountingHole-1.2mm to IN.
+Updated H1 symbol association from  to /320845bf-f819-4ed4-81df-d1d825ec6d8e.
+Updated H1 fields.
+Updated H1 sheetname to 'Root'.
+Changed H5 value from MountingHole-1.2mm to SW.
+Updated H5 symbol association from  to /6b7e64c5-6007-43f3-ae68-da53c45d603a.
+Updated H5 fields.
+Updated H2 sheetfile to 'Big Muff Pi.kicad_sch'.
+Updated H5 sheetname to 'Root'.
+Updated H5 sheetfile to 'Big Muff Pi.kicad_sch'.
+Updated H5 footprint filters to 'MountingHole*Pad*'.
+Changed J1 value from BarrelJack_Horizontal to Barrel_Jack_MountingPin.
+Added H5 'exclude from BOM' fabrication attribute.
+Changed R17 footprint from 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal' to 'Potentiometer_THT:Potentiometer_Omeg_PC16BU_Horizontal'.
+Connected H5 pin 1 to Net-(D6-K).
+Added J1 (footprint 'Connector_BarrelJack:BarrelJack_Horizontal').
+Changed RV2 footprint from 'Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical' to 'Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Changed RV3 footprint from 'Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical' to 'Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Connected J1 pin 2 to GND.
+Connected J1 pin 1 to +9v.
+Updated J1 footprint filters to 'BarrelJack*'.
+Updated J1 sheetfile to 'Big Muff Pi.kicad_sch'.
+Updated J1 sheetname to 'Root'.
+Changed RV1 footprint from 'Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical' to 'Potentiometer 2:Potentiometer_Omeg_PC16BU_Vertical_Edit'.
+Updated J1 fields.
+Changed REF** reference designator to J1.
+Updated H1 footprint filters to 'MountingHole*Pad*'.
+Updated H2 sheetname to 'Root'.
+Updated H2 fields.
+Updated H2 symbol association from  to /3be4d3a6-67a5-47b6-94bf-f9c8d9763847.
+Changed H2 value from MountingHole-1.2mm to OUT.
+Changed REF** reference designator to H2.
+Added H2 (footprint 'MountingHole 2:MountingHole-1.2mm').
+Connected H1 pin 1 to Net-(H1-Pad1).
+Added H1 'exclude from BOM' fabrication attribute.
+Updated H1 sheetfile to 'Big Muff Pi.kicad_sch'.
+Updated J1 symbol association from  to /8bac0075-39ea-49ea-9360-1abd1c4041af.
+Warning: No net found for component R17 pad 3 (no pin 3 in symbol).
+Warning: No net found for component J1 pad 3 (no pin 3 in symbol).
+Error: J1 pad MP not found in Connector_BarrelJack:BarrelJack_Horizontal.
+Error: Cannot add C15 (no footprint assigned).
+Error: Cannot add C14 (no footprint assigned).
+Error: Cannot add C13 (no footprint assigned).
+Error: Cannot add C11 (no footprint assigned).
+Error: Cannot add C10 (no footprint assigned).
+Error: Cannot add C9 (no footprint assigned).
+Error: Cannot add C7 (no footprint assigned).
+Error: Cannot add C6 (no footprint assigned).
+Error: Cannot add C4 (no footprint assigned).
+Error: Cannot add C3 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+
+
+Info: Total warnings: 2, errors: 12.

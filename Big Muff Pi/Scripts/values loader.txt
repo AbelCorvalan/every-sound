@@ -9,7 +9,7 @@
 6. Compare 00 element with all first column "Component", second column,..., n (array2)
 7. If "Component"== "Ref", Write over second column of array1 index to "Ref", else " "Component" is not in the circuit"
 
-Determinate ends and dimension of arrays (print them).
+- Similar Values (include in python)
 
 
 

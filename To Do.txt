@@ -1,0 +1,6 @@
+To Do
+
+1- Design Bias Supply: Read geofex.com
+2- Determinate Switchs, search a model switch (OK)
+3- Design Script which synthesize arrayList with (value not duplicated, component)
+

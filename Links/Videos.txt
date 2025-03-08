@@ -1,0 +1,32 @@
+- PCB
+
+03 Pad Precision: Using the Add Pad Tool and Exploring Diverse Pad Options in KiCad (MountingHole footprint)
+https://www.youtube.com/watch?v=15GD4ojIs_8&ab_channel=TechRecord
+
+
+#14 How To Create Custom Footprints in KiCad 7.0 With KLC | #PCBCupid (Footprint editor)
+https://www.youtube.com/watch?v=TgfFjG4Zcyw&ab_channel=PcbCupid
+
+KiCad For Guitar Effects: SIMPLIFIED (sorta) (Assigment footprints)
+https://www.youtube.com/watch?v=x5xZtWoclVA&ab_channel=PedalBaeFX
+
+
+
+- Analysis & Design
+
+Guitar Pedal Power Filtering & Decoupling Capacitors
+https://www.youtube.com/watch?v=mql1ltCsLTg&ab_channel=DIYGuitarPedals
+
+Power Supply Filter Anatomy
+https://www.diystompboxes.com/smfforum/index.php?topic=116491.0
+
+Designing Bias Supply (Vbias or Vb) Networks for Effects
+http://www.geofex.com/circuits/biasnet.htm
+
+
+
+- Product & connections problems
+
+Eliminating Noise On Your Pedalboard With The Right Power Supply
+https://www.youtube.com/watch?v=472DIM_hULY&ab_channel=Pedalicious
+
